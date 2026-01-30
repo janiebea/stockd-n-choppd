@@ -1,2 +1,2 @@
 # stockd-n-choppd
-All inclusive meal prep planner
+All inclusive meal prep planning web app.
